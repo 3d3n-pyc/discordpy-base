@@ -11,5 +11,5 @@ Ce projet est un bot Discord écrit en Python. Il utilise la bibliothèque disco
 ### Utilisation
 Pour ajouter un nouveau plugin, créez un dossier dans le répertoire plugins/ avec le nom de votre plugin. Dans ce dossier, créez un fichier plugin.yml qui contient les informations sur le plugin et ses dépendances. Le bot chargera automatiquement le plugin lors de son démarrage.
 
-Licence
+### Licence
 Ce projet est sous licence `GNU-3.0`. Voir le fichier [LICENSE](/LICENSE) pour plus de détails
