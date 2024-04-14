@@ -6,7 +6,7 @@ Ce projet est un bot Discord écrit en Python. Il utilise la bibliothèque disco
 - Clonez ce dépôt sur votre machine locale.
 - Installez les dépendances nécessaires en utilisant pip: `python -m pip install -r requirements.txt`
 - Configurer le bot Discord à partir du fichier `config.json`
-- Exécutez le bot: `python `
+- Exécutez le bot: `python main.py`
 
 ### Utilisation
 Pour ajouter un nouveau plugin, créez un dossier dans le répertoire plugins/ avec le nom de votre plugin. Dans ce dossier, créez un fichier plugin.yml qui contient les informations sur le plugin et ses dépendances. Le bot chargera automatiquement le plugin lors de son démarrage.
