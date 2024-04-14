@@ -1,0 +1,338 @@
+2024-04-07 02:53:25 DEBUG     main Plugin Welcome v1.0.0 chargé
+2024-04-07 02:53:26 DEBUG     main Mode débug activé
+2024-04-07 02:53:26 DEBUG     welcome Cogs chargés
+2024-04-07 02:53:26 DEBUG     main plugins.welcome.main chargé
+2024-04-07 02:53:55 DEBUG     main Plugin Welcome v1.0.0 chargé
+2024-04-07 02:53:55 DEBUG     main Mode débug activé
+2024-04-07 02:53:56 DEBUG     welcome Cogs chargés
+2024-04-07 02:53:56 DEBUG     main plugins.welcome.main chargé
+2024-04-07 02:55:34 DEBUG     main Plugin Welcome v1.0.0 chargé
+2024-04-07 02:55:34 DEBUG     main Mode débug activé
+2024-04-07 02:55:34 DEBUG     welcome Cogs chargés
+2024-04-07 02:56:29 DEBUG     main Mode débug activé
+2024-04-07 02:56:29 DEBUG     welcome Cogs chargés
+2024-04-07 02:56:29 DEBUG     main Plugin Welcome v1.0.0 chargé
+2024-04-07 02:56:48 DEBUG     main Mode débug activé
+2024-04-07 02:56:48 DEBUG     welcome Cogs chargés
+2024-04-07 02:56:48 DEBUG     main Plugin Welcome v1.0.0 chargé
+2024-04-07 02:57:35 DEBUG     main Mode débug activé
+2024-04-07 02:57:35 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 02:58:03 DEBUG     main Mode débug activé
+2024-04-07 02:58:03 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 02:58:23 DEBUG     main Mode débug activé
+2024-04-07 02:58:23 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 02:59:07 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-07 03:23:03 DEBUG     main Mode débug activé
+2024-04-07 03:23:03 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 03:23:14 DEBUG     main Mode débug activé
+2024-04-07 03:23:14 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 03:23:16 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-07 03:24:14 DEBUG     main Mode débug activé
+2024-04-07 03:24:14 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 03:24:17 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-07 04:19:59 DEBUG     main Mode débug activé
+2024-04-07 04:19:59 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 04:20:02 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-07 04:24:02 DEBUG     main Mode débug activé
+2024-04-07 04:24:02 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 04:24:04 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-07 04:25:19 DEBUG     main Mode débug activé
+2024-04-07 04:25:19 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 04:25:21 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-07 05:19:15 DEBUG     main Mode débug activé
+2024-04-07 05:19:30 DEBUG     main Mode débug activé
+2024-04-07 05:19:30 ROR     welcome Le fichier de configuration est invalide, la clé message est manquante
+2024-04-07 05:19:30 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 05:19:33 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-07 05:25:08 DEBUG     main Mode débug activé
+2024-04-07 05:25:08 ROR     welcome Le fichier de configuration est invalide, la clé `message` est manquante
+2024-04-07 05:25:08 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 05:25:11 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-07 06:11:02 DEBUG     main Mode débug activé
+2024-04-07 06:11:30 DEBUG     main Mode débug activé
+2024-04-07 06:11:30 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 06:11:32 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-07 06:17:01 DEBUG     main Mode débug activé
+2024-04-07 06:17:01 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-07 06:17:03 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:40:17 DEBUG     main Mode débug activé
+2024-04-08 00:40:20 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:41:33 DEBUG     main Mode débug activé
+2024-04-08 00:41:35 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:42:16 DEBUG     main Mode débug activé
+2024-04-08 00:42:18 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:42:48 DEBUG     main Mode débug activé
+2024-04-08 00:42:50 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:43:27 DEBUG     main Mode débug activé
+2024-04-08 00:43:44 DEBUG     main Mode débug activé
+2024-04-08 00:43:46 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:44:07 DEBUG     main Mode débug activé
+2024-04-08 00:44:38 DEBUG     main Mode débug activé
+2024-04-08 00:44:38 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 00:44:40 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:45:07 DEBUG     main Mode débug activé
+2024-04-08 00:45:07 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 00:45:40 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:47:50 DEBUG     main Mode débug activé
+2024-04-08 00:49:49 DEBUG     main Mode débug activé
+2024-04-08 00:49:49 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 00:49:52 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:50:38 DEBUG     main Mode débug activé
+2024-04-08 00:50:38 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 00:50:40 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:50:47 DEBUG     main Mode débug activé
+2024-04-08 00:50:47 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 00:51:40 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:52:56 DEBUG     main Mode débug activé
+2024-04-08 00:52:56 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 00:52:58 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 00:53:06 DEBUG     main Mode débug activé
+2024-04-08 00:53:06 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 00:53:58 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 10:47:32 DEBUG     main Mode débug activé
+2024-04-08 10:47:32 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 10:47:35 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 10:49:26 DEBUG     main Mode débug activé
+2024-04-08 10:49:26 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 10:49:29 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 10:57:45 DEBUG     main Mode débug activé
+2024-04-08 10:58:30 DEBUG     main Mode débug activé
+2024-04-08 10:59:00 DEBUG     main Mode débug activé
+2024-04-08 10:59:17 DEBUG     main Mode débug activé
+2024-04-08 10:59:37 DEBUG     main Mode débug activé
+2024-04-08 11:00:57 DEBUG     main Mode débug activé
+2024-04-08 11:01:46 DEBUG     main Mode débug activé
+2024-04-08 11:02:27 DEBUG     main Mode débug activé
+2024-04-08 11:03:23 DEBUG     main Mode débug activé
+2024-04-08 11:04:02 DEBUG     main Mode débug activé
+2024-04-08 11:04:02 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:04:02 ROR     ping Le fichier de configuration est invalide, la clé `ephemeral` est manquante
+2024-04-08 11:04:02 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:04:05 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:04:30 DEBUG     main Mode débug activé
+2024-04-08 11:04:30 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:04:30 ROR     ping Le fichier de configuration est invalide, la clé `ephemeral` est manquante
+2024-04-08 11:04:30 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:04:46 DEBUG     main Mode débug activé
+2024-04-08 11:04:46 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:04:46 ROR     ping Le fichier de configuration est invalide, la clé `ephemeral` est manquante
+2024-04-08 11:04:46 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:05:15 DEBUG     main Mode débug activé
+2024-04-08 11:05:15 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:05:15 ROR     ping Le fichier de configuration est invalide, la clé `ephemeral` est manquante
+2024-04-08 11:05:15 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:05:30 DEBUG     main Mode débug activé
+2024-04-08 11:05:30 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:05:30 ROR     ping Le fichier de configuration est invalide, la clé `ephemeral` est manquante
+2024-04-08 11:05:30 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:05:45 DEBUG     main Mode débug activé
+2024-04-08 11:05:45 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:05:45 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:07:05 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:11:04 DEBUG     main Mode débug activé
+2024-04-08 11:11:04 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:11:04 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:11:06 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:15:01 DEBUG     main Mode débug activé
+2024-04-08 11:15:01 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:15:01 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:15:03 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:15:43 DEBUG     main Mode débug activé
+2024-04-08 11:15:43 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:15:43 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:15:46 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:15:56 DEBUG     main Mode débug activé
+2024-04-08 11:15:56 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:15:56 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:16:46 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:17:43 DEBUG     main Mode débug activé
+2024-04-08 11:17:43 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:17:43 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:17:46 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:36:11 DEBUG     main Mode débug activé
+2024-04-08 11:36:11 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-08 11:36:11 ROR     ping Le fichier de configuration est invalide, la clé `ip` est manquante
+2024-04-08 11:36:11 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:36:11 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:36:14 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:36:44 DEBUG     main Mode débug activé
+2024-04-08 11:36:44 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-08 11:36:45 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:36:45 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:36:48 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:37:55 DEBUG     main Mode débug activé
+2024-04-08 11:37:55 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-08 11:37:55 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:37:55 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:37:58 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:38:45 DEBUG     main Mode débug activé
+2024-04-08 11:38:45 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-08 11:38:46 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:38:46 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:38:49 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 11:39:21 DEBUG     main Mode débug activé
+2024-04-08 11:39:21 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-08 11:39:21 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 11:39:21 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 11:39:24 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-08 21:59:07 DEBUG     main Mode débug activé
+2024-04-08 21:59:07 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-08 21:59:07 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-08 21:59:07 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-08 21:59:09 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 19:49:50 DEBUG     main Mode débug activé
+2024-04-11 19:50:05 DEBUG     main Mode débug activé
+2024-04-11 19:50:05 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 19:50:05 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 19:50:05 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 19:50:08 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:02:27 DEBUG     main Mode débug activé
+2024-04-11 20:02:27 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:02:27 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:02:27 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:02:30 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:09:50 DEBUG     main Mode débug activé
+2024-04-11 20:09:50 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:09:51 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:09:51 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:09:53 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:12:15 DEBUG     main Mode débug activé
+2024-04-11 20:12:15 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:12:15 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:12:15 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:12:18 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:15:27 DEBUG     main Mode débug activé
+2024-04-11 20:15:27 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:15:49 DEBUG     main Mode débug activé
+2024-04-11 20:15:49 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:16:47 DEBUG     main Mode débug activé
+2024-04-11 20:16:47 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:17:19 DEBUG     main Mode débug activé
+2024-04-11 20:17:19 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:17:31 DEBUG     main Mode débug activé
+2024-04-11 20:17:31 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:21:30 DEBUG     main Mode débug activé
+2024-04-11 20:21:30 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:22:03 DEBUG     main Mode débug activé
+2024-04-11 20:22:03 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:22:31 DEBUG     main Mode débug activé
+2024-04-11 20:22:31 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:23:01 DEBUG     main Mode débug activé
+2024-04-11 20:23:01 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:23:01 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:23:01 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:23:04 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:24:53 DEBUG     main Mode débug activé
+2024-04-11 20:24:53 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:24:54 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:24:54 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:24:56 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:25:09 DEBUG     main Mode débug activé
+2024-04-11 20:25:09 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:25:09 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:25:10 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:25:56 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:27:44 DEBUG     main Mode débug activé
+2024-04-11 20:27:44 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:27:45 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:27:45 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:27:48 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:27:57 DEBUG     main Mode débug activé
+2024-04-11 20:27:57 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:27:57 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:27:57 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:28:47 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:47:52 DEBUG     main Mode débug activé
+2024-04-11 20:47:52 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:47:53 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:47:53 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:47:55 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:48:16 DEBUG     main Mode débug activé
+2024-04-11 20:48:16 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:48:16 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:48:16 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:48:37 DEBUG     main Mode débug activé
+2024-04-11 20:48:37 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:48:37 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:48:37 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:49:25 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-11 20:49:58 DEBUG     main Mode débug activé
+2024-04-11 20:49:58 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-11 20:49:58 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-11 20:49:58 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-11 20:50:01 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 10:06:31 DEBUG     main Mode débug activé
+2024-04-14 10:06:31 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:06:32 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:06:32 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:06:35 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 10:07:11 DEBUG     main Mode débug activé
+2024-04-14 10:07:11 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:07:11 ROR     mcbe Le fichier de configuration est invalide, la clé `status.message` est manquante
+2024-04-14 10:07:11 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:07:11 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:07:14 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 10:08:42 DEBUG     main Mode débug activé
+2024-04-14 10:08:42 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:08:42 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:08:42 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:08:45 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 10:12:26 DEBUG     main Mode débug activé
+2024-04-14 10:12:26 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:12:27 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:12:27 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:12:29 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 10:12:40 DEBUG     main Mode débug activé
+2024-04-14 10:12:40 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:12:41 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:12:41 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:12:46 DEBUG     main Mode débug activé
+2024-04-14 10:12:46 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:12:46 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:12:46 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:13:59 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 10:16:18 DEBUG     main Mode débug activé
+2024-04-14 10:16:18 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:16:18 ROR     mcbe Le fichier de configuration est invalide, la clé `activity.onlineMessage` est manquante
+2024-04-14 10:16:18 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:16:18 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:16:21 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 10:18:28 DEBUG     main Mode débug activé
+2024-04-14 10:18:28 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:18:28 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:18:28 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:18:31 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 10:19:17 DEBUG     main Mode débug activé
+2024-04-14 10:19:17 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:19:17 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:19:17 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:19:20 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 10:19:38 DEBUG     main Mode débug activé
+2024-04-14 10:19:38 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 10:19:38 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 10:19:38 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 10:20:20 INFO     main Usefull Bot#8908 est connecté avec 2 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 15:54:04 DEBUG     main Mode débug activé
+2024-04-14 15:54:04 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 15:54:07 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 15:55:05 DEBUG     main Mode débug activé
+2024-04-14 15:55:05 DEBUG     main Plugin Ping v1.0 chargé
+2024-04-14 15:55:08 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 15:58:55 DEBUG     main Mode débug activé
+2024-04-14 15:58:55 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 15:58:58 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 15:59:51 DEBUG     main Mode débug activé
+2024-04-14 15:59:51 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 15:59:54 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 16:01:58 DEBUG     main Mode débug activé
+2024-04-14 16:01:58 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 16:02:00 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 16:03:46 DEBUG     main Mode débug activé
+2024-04-14 16:03:46 DEBUG     main Plugin Welcome v1.0 chargé
+2024-04-14 16:03:49 INFO     main Usefull Bot#8908 est connecté avec 0 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 16:06:08 DEBUG     main Mode débug activé
+2024-04-14 16:06:08 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 16:06:11 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta
+2024-04-14 16:08:56 DEBUG     main Mode débug activé
+2024-04-14 16:08:56 DEBUG     main Plugin mcbe v1.0 chargé
+2024-04-14 16:08:58 INFO     main Usefull Bot#8908 est connecté avec 1 commande(s) synchronisée(s) sous la version 1.0.0-beta

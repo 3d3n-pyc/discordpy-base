@@ -1,0 +1,7 @@
+{
+    "token": "",
+    "app_id": 0,
+    "version": "1.0.0-beta",
+    "debug": true,
+    "PythonDontWriteBytecode": true
+}

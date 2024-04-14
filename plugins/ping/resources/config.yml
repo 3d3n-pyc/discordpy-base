@@ -1,0 +1,4 @@
+---
+message: "Le bot a **{ping}**ms" # {ping} : Ping du bot
+ephemeral: false # Si le message est éphémère ou non
+...
