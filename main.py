@@ -22,6 +22,7 @@ class client(commands.Bot):
         )
 
         self.initial_extensions = []
+        self.synced = []
         
         plugins = [dir for dir in os.listdir('plugins')]
         
@@ -50,7 +51,7 @@ class client(commands.Bot):
 
                 os.makedirs(f'plugin_data/{name}/', exist_ok=True)
             except FileNotFoundError:
-                print(f'Le fichier plugins/{name}/plugin.yml n\'a pas été trouvé')
+                log.write('main', f'Le fichier plugins/{name}/plugin.yml n\'a pas été trouvé', log.levels.error)
                 
             files = [file for file in os.listdir(f'plugin_data/{name}/')]
             for file in os.listdir(f'plugins/{name}/resources'):
@@ -59,11 +60,20 @@ class client(commands.Bot):
             
             await self.load_extension(ext)
         
-        global synced
-        synced = await bot.tree.sync()
+        self.synced = await bot.tree.sync()
+    
+    
+    log.write('main', 'Connexion en cours...', log.levels.info)
         
     async def on_ready(self):
-        log.write('main', f'{self.user} est connecté avec {len(synced)} commande(s) synchronisée(s) sous la version {data["version"]}', log.levels.info)
+        log.write('main', f'{self.user} est connecté avec {len(self.synced)} commande(s) synchronisée(s) sous la version {data["version"]}', log.levels.info)
     
+    async def on_resumed(self):
+        shard = self.shard_count(self.shard_id)
+        guilds: list[discord.Guild] = self.guilds
+        guild_count = len([guild for guild in guilds if guild.shard_id == self.shard_id]) if shard else len(guilds)
 
-bot = client(); bot.run(data["token"])
+        log.write('main', f'Session reprise sur la shard {shard} avec {guild_count} serveur(s)', log.levels.debug)
+
+
+bot = client(); bot.run(data["token"], log_handler=None)
