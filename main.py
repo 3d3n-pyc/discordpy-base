@@ -8,6 +8,7 @@ import os
 import yaml
 import shutil
 import pip
+import logging
 
 import modules.log as log
 
@@ -76,4 +77,6 @@ class client(commands.Bot):
         log.write('main', f'Session reprise sur la shard {shard} avec {guild_count} serveur(s)', log.levels.debug)
 
 
-bot = client(); bot.run(data["token"], log_handler=None)
+discord.utils.setup_logging(level=logging.ERROR)
+
+bot = client(); bot.run(data["token"])
