@@ -9,5 +9,5 @@ def pluginData(plugin, file: str = 'config.yml', format: str = 'yml') -> dict:
 
     if format == 'json':
         return json.load(f)
-
+    
     return f.read()
